@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    // Update swift code so that:
+    // When user clicks on show message button, the text is aligned to the left and...
+    // When user clicks on another message, text aligns to the right.
+    // Use the interface builder attributes inspector to change the font size of the messageLabel to a smaller point size, like 24.
     @IBAction func showAwesomeMessage(_ sender: UIButton) {
         messageLabel.text = "You Are Awesome!"
         messageLabel.textColor = .blue
@@ -25,9 +29,7 @@ class ViewController: UIViewController {
         messageLabel.textAlignment = .right
     }
     
-// Update swift code so that:
-    //When user clicks on show message button, the text is aligned to the left and...
-    // When user clicks on another message, text aligns to the right.
-    // Use the interface builder attributes inspector to change the font size of the messageLabel to a smaller point size, like 24.
+
+    
 }
 
