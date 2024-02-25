@@ -46,12 +46,12 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="messageLabel" destination="4km-Qz-Urr" id="67I-Jr-bX9"/>
+                        <outlet property="messageLabel" destination="4km-Qz-Urr" id="sSI-NG-8ko"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="140" y="3.1484257871064472"/>
+            <point key="canvasLocation" x="702" y="188"/>
         </scene>
     </scenes>
     <resources>
